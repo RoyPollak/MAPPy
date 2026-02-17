@@ -5,7 +5,7 @@ MAPPy includes preprocessing, visualization, clustering, and differential expres
 The Python-based implementation efficiently deals with large datasets and enables smooth integration with Python written data science and machine learning tools.
 
 [anndata]: https://anndata.readthedocs.io
-[scnapy]: https://scanpy.readthedocs.io/
+[scanpy]: https://scanpy.readthedocs.io/
 [scverse]: https://scverse-tutorials.readthedocs.io/
 
 ## Public API
